@@ -1,9 +1,9 @@
 .body {
-  background-color: darkslategray;
+  background-image: linear-gradient(to right, #aad321 0%, #7450fe 100%);
 }
 .container {
   margin: 30px;
-  background-color: darkslategrey;
+  background-image: linear-gradient(to right, #aad321 0%, #7450fe 100%);
   color: white;
 }
 .h1 {
@@ -11,4 +11,10 @@
   margin: 20px;
   padding: 20px;
   color: white;
+}
+footer {
+  text-align: center;
+  text-orientation: cornsilk;
+  font-weight: bolder;
+  background-image: linear-gradient(to right, #aad321 0%, #7450fe 100%);
 }
