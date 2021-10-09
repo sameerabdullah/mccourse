@@ -1,0 +1,14 @@
+.body {
+  background-color: darkslategray;
+}
+.container {
+  margin: 30px;
+  background-color: darkslategrey;
+  color: white;
+}
+.h1 {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  color: white;
+}
